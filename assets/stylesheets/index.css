@@ -1,0 +1,31 @@
+body {
+    margin: 20px;
+    box-shadow: 20px 20px 50px grey;
+}
+
+.title {
+    text-align: center;
+    padding: 10px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.page_desc {
+    text-align: center;
+}
+
+.project_list {
+    padding: 20px;
+}
+
+.sub_headings{
+    text-decoration: underline;
+}
+
+.desc {
+    text-decoration: bold;
+}
+
+.page_foot {
+    padding: 30px;
+    text-align: center;
+}
